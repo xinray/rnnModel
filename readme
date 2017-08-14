@@ -1,0 +1,7 @@
+
+W tensorflow/core/framework/op_kernel.cc:993] Not found: Key Variable not found in checkpoint
+W tensorflow/core/framework/op_kernel.cc:993] Not found: Key softmax_w not found in checkpoint
+W tensorflow/core/framework/op_kernel.cc:993] Not found: Key embedding not found in checkpoint
+W tensorflow/core/framework/op_kernel.cc:993] Not found: Key rnn/multi_rnn_cell/cell_0/basic_lstm_cell/weights not found in checkpoint
+W tensorflow/core/framework/op_kernel.cc:993] Not found: Key rnn/multi_rnn_cell/cell_0/basic_lstm_cell/biases not found in checkpoint
+W tensorflow/core/framework/op_kernel.cc:993] Not found: Key softmax_b not found in checkpoint
